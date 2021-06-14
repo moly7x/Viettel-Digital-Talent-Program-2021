@@ -42,7 +42,7 @@ Jenkins là một công cụ mã nguồn mở, hỗ trợ CI và CD một cách 
 
 Sau khi hoàn tất quá trình phát triển, phần mềm cần phải trải qua các giai đoạn kiểm thử tại môi trường kiểm thử (staging – môi trường gần giống với môi trường thực tế khi đến tay người dùng) trước khi đến tay người dùng. Quá trình triển khai trên các môi trường có thể sẽ mất rất nhiều công đoạn, thời gian cho việc triển khai, cấu hình server, thiết lập cơ chế log,… Hầu hết các tác vụ này cần được tự động hóa để giảm thiểu chi phí trong quá trình triển khai đối với môi trường có tới hàng trăm thiết bị đầu cuối. Vì vậy, một công cụ hỗ trợ tự động hóa trong việc xây dựng, kiểm thử hệ thống trong môi trường staging và triển khai lên môi trường production.
 
-![alt](https://link)
+![jenkins](./imgs/pic4.jpg)
 
 Hudson từng là một công cụ mã nguồn mở nổi tiếng trong quá trình CI, được phát triển bởi Sun Microsystems. Và vào tháng 4/2009, Oracle đã mua lại công ty Sun Microsystems với mức giá 7,4 tỷ USD và đặt nền móng cho dự án mang tên Jenkins. Và tính tới thời điểm hiện tại, Jenkins đã trở thành một trong
 những công cụ phổ biến nhất trên thị trường hiện nay.
